@@ -1,0 +1,27 @@
+{
+  "name": "HAM",
+  "version": "0.0.1",
+  "description": "A boilerPlate APP for Hapi Angular and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "HAM-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prateek479/hapi-angular-boilerplate"
+  },
+  "keywords": [
+    "HAM"
+  ],
+  "author": "prateek479",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prateek479/hapi-angular-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Prateek479/hapi-angular-boilerplate",
+  "dependencies": {
+    "good": "^5.1.2",
+    "good-console": "^4.1.0",
+    "hapi": "^8.4.0"
+  }
+}
